@@ -1,0 +1,9 @@
+C:\Users\dreit\source\repos\Bitmapper\bin\Release\Bitmapper.exe.config
+C:\Users\dreit\source\repos\Bitmapper\bin\Release\Bitmapper.exe
+C:\Users\dreit\source\repos\Bitmapper\bin\Release\Bitmapper.pdb
+C:\Users\dreit\source\repos\Bitmapper\obj\Release\Bitmapper.Form1.resources
+C:\Users\dreit\source\repos\Bitmapper\obj\Release\Bitmapper.Properties.Resources.resources
+C:\Users\dreit\source\repos\Bitmapper\obj\Release\Bitmapper.csproj.GenerateResource.cache
+C:\Users\dreit\source\repos\Bitmapper\obj\Release\Bitmapper.csproj.CoreCompileInputs.cache
+C:\Users\dreit\source\repos\Bitmapper\obj\Release\Bitmapper.exe
+C:\Users\dreit\source\repos\Bitmapper\obj\Release\Bitmapper.pdb
